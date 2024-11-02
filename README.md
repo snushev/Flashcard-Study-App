@@ -1,3 +1,5 @@
+![](https://github.com/snushev/Flashcard-Study-App/blob/main/README.md)
+
 # Flashcard-Study-App
 
 ## Project Overview
